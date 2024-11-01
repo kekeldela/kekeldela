@@ -1,5 +1,5 @@
 -o melhor programador dessa geração
-sou melhor do que você que está lendo :)
+-sou melhor do que você que está lendo :)
 
 
 <!---
